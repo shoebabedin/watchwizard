@@ -1,0 +1,7 @@
+@import url("./assets/styles/style.min.css");
+
+.animated-hero-slider .swiper-wrapper {
+  transition-timing-function: linear;
+  -webkit-transition-timing-function: linear !important;
+  -o-transition-timing-function: linear !important;
+}
