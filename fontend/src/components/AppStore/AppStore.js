@@ -61,7 +61,7 @@ const AppStore = () => {
                     spaceBetween={-1}
                     allowTouchMove={false}
                     loop={true}
-                    speed={2000}
+                    speed={3000}
                     autoplay={{
                       delay: -1000,
                       disableOnInteraction: false
@@ -98,7 +98,7 @@ const AppStore = () => {
                     spaceBetween={-1}
                     allowTouchMove={false}
                     loop={true}
-                    speed={2000}
+                    speed={3000}
                     autoplay={{
                       delay: -1000,
                       disableOnInteraction: false
